@@ -1,5 +1,5 @@
 1.Summary
-2.Buld
+2.Build
 3.STR
 4.Actual result
 5.Expected result
