@@ -1,0 +1,15 @@
+1.Summary
+2.Buld
+3.STR
+4.Actual result
+5.Expected result
+6.Projec
+7.Component
+8.Buld
+9.Severity
+10.Priority
+11.Status
+12.Author
+13.Environment
+14.Attachment
+
